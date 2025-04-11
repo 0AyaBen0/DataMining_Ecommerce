@@ -1,4 +1,4 @@
-#1. Contexte du Projet
+1. Contexte du Projet
 Avec l'essor du commerce en ligne, les entreprises cherchent de plus en plus à comprendre le comportement
 des utilisateurs sur leurs sites e-commerce. L'analyse des données peut fournir des insights précieux sur les
 préférences des clients, les tendances des ventes, et les performances des produits, permettant ainsi d'optimiser
